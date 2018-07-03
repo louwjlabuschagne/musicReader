@@ -1,0 +1,1 @@
+Rscript -e "shiny::runApp('./', port=8686, host='10.0.0.110')"
